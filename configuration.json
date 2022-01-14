@@ -1,0 +1,5 @@
+{
+  "environment": "development",
+  "backendPort": 8080,
+  "appRootPath": "."
+}
